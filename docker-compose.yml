@@ -1,0 +1,9 @@
+version: '3'
+name: Weather-API
+services:
+  service-redis:
+    image: bitnami/redis
+    ports:
+      - '6379:6379'
+    environment:
+      - ALLOW_EMPTY_PASSWORD=yes
