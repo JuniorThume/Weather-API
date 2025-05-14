@@ -1,6 +1,6 @@
 # Weather-API
 
-Este projeto é uma API para consulta de informações climáticas, desenvolvida utilizando o framework [Express](https://expressjs.com/).
+Este projeto é uma API para consulta de informações climáticas, desenvolvida utilizando o framework [Express](https://expressjs.com/). Este projeto foi proposto por *Roadmap.sh* e pode ser encontrado no link [do projeto](https://roadmap.sh/projects/weather-api-wrapper-service).
 
 ## Funcionalidades
 
